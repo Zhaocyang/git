@@ -30,6 +30,7 @@ public class MainActivity extends AppCompatActivity {
                     mTextMessage.setText(R.string.title_me);
                     return true;
             }
+
             return false;
         }
     };
